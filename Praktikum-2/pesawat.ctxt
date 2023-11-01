@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=pesawat
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ pesawat\ here.\r\n\ \r\n\ @author\ semarsoft.com\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ pesawat\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ Berjalan()
+comment3.params=
+comment3.target=void\ BelokKiri()
+comment4.params=
+comment4.target=void\ BelokKanan()
+numComments=5
